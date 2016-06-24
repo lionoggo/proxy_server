@@ -38,8 +38,6 @@ Home page : [AnyProxy.io](http://anyproxy.io)
 * 添加常用加密算法
 * 支持模拟常见的get/post请求
 
-=======
->>>>>>> origin/master
 Feature
 ------------
 * work as http or https proxy
