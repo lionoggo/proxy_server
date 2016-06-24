@@ -32,11 +32,14 @@ Home page : [AnyProxy.io](http://anyproxy.io)
     * [HTTPS相关教程](https://github.com/alibaba/anyproxy/wiki/HTTPS%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B)，讲解如何配置AnyProxy的https特性
 * 中文主页：[http://anyproxy.io](http://anyproxy.io/cn)
 
+
 更新特性
 -------
 * 添加常用加密算法
 * 支持模拟常见的get/post请求
 
+=======
+>>>>>>> origin/master
 Feature
 ------------
 * work as http or https proxy
